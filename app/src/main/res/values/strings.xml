@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Watcha</string>
+    <string name="movie">Movie</string>
+    <string name="tv_shows">TV Show</string>
+    <string name="title">Title</string>
+    <string name="date">Release date</string>
+    <string name="genre">Item genre</string>
+    <string name="overview">Item overview</string>
+    <string name="detail">Genre | Duration</string>
+    <string name="cast">Item cast</string>
+    <string name="title_activity_detail">Detail Info</string>
+    <string name="title_overview">OVERVIEW</string>
+    <string name="title_cast">STARRING</string>
+    <string name="add_to_watchlist">ADD TO WATCHLIST</string>
+    <string name="added_to_watchlist">ADDED TO WATCHLIST</string>
+    <string name="share">SHARE</string>
+    <string name="btn_add">Added to your watchlist</string>
+    <string name="btn_added">Deleted from your watchlist</string>
+    <string name="btn_share">You share this content</string>
+</resources>
